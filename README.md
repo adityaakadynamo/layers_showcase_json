@@ -4,6 +4,9 @@ Submitting themes to the showcase
 
 To add your themes to the new "Layers Showcase" you need to issue a pull request and add a field to the top of showcase_json file. below is a template of the info you need to add.
 
+Use the link below for the form.
+http://wh0cares.github.io
+
 Image Sizes (Important).
 =========================
 icons = H=256 x W=256
